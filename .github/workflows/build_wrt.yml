@@ -11,6 +11,7 @@ on:
         default: fg2000_ipq807x_libwrt
         options:
           - aliyun_ap8220_immwrt
+          - fg2000_ipq807x_libwrt
           - jdcloud_ipq60xx_immwrt
           - cmcc_rax3000m_immwrt
           - jdcloud_ax6000_immwrt
